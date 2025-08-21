@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>OOP</name>
+	<name>GettersAndSetters</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1755672013142</id>
+			<id>1755751252503</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
