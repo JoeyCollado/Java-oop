@@ -16,9 +16,10 @@ public class oop {
 	 User user2 = new User(); //another instance(object) of the class created
 	 user2.name = "aibert";
 	 user2.membership = "Gold";
+	 user2.age = 3;
 	 
-	 System.out.println(user.name + user.membership);
-	 System.out.println(user2.name + user2.membership);
+	 System.out.println(user.name + user.membership + user.age); //default value = 0
+	 System.out.println(user2.name + user2.membership + user2.age); //assigned value = 3
 	}
 
 }
